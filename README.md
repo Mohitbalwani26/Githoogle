@@ -20,11 +20,14 @@ Currently the website is not mobile responsive so please, try it on desktop devi
 
 choose the directory where you want to clone the project and setup a virtual environment for the same. For better understanding, lets say you are choosing Desktop as directory.
 
+Note : If running with pip or python shows error then try with pip3 or python3 respectively.
+
+
  1. `cd Desktop`
  2. `mkdir almabase`
  3. `cd almabase`
  4. `git clone https://github.com/Mohitbalwani26/Githoogle.git`
- 5. `virtualenv env`
+ 5. `virtualenv env` (if virtualenv is not installed then first run `pip install virtualenv`
  6. `source env/bin/activate`
  7. `cd Githoogle`
  8. `pip install -r requirements.txt`
