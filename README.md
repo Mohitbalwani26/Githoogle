@@ -27,7 +27,7 @@ Note : If running with pip or python shows error then try with pip3 or python3 r
  2. `mkdir almabase`
  3. `cd almabase`
  4. `git clone https://github.com/Mohitbalwani26/Githoogle.git`
- 5. `virtualenv env` (if virtualenv is not installed then first run `pip install virtualenv`
+ 5. `virtualenv env` (if virtualenv is not installed then first run `pip install virtualenv`)
  6. `source env/bin/activate`
  7. `cd Githoogle`
  8. `pip install -r requirements.txt`
