@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(226, 193, 178);
+  font-family: "Merriweather", serif;
+  color: rgb(102, 101, 101);
+}
+.btn {
+  background-color: #a02c1e;
+  color: #f7f7f7;
+  margin-bottom: 5px;
+}
+.btn:hover {
+  color: #f7f7f7;
+}
+
+h2 {
+  color: #000000;
+  margin-bottom: 25px;
+}
+h5 {
+  margin-left: 6%;
+  margin-bottom: 1.5%;
+}
+.listings {
+  margin-top: 2%;
+  margin-left: 3.5%;
+}
+li {
+  margin-left: 10%;
+}
+#organisation-input,
+#number_of_repo-input,
+#number_of_contributors-input {
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 10px;
+}
+#logo {
+  margin-top: 2%;
+  margin-left: 35%;
+  display: inline-block;
+  margin-bottom: 1%;
+}
+#search {
+  margin-left: 46%;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+a {
+  color: black;
+}
