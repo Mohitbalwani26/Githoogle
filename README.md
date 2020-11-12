@@ -1,5 +1,9 @@
 ## Githoogle
-A simple platform for finding out the top repositories of given organisation and their top Committees.
+A simple platform for finding out the top repositories of given organisation and their top Committees. 
+
+Live website can be found [here](https://sleepy-dusk-32194.herokuapp.com) 
+
+Demo can be found [here](https://www.youtube.com/watch?v=klg-UPV2J3Y) 
 
 **Assumptions:**  
  1. Top repositories should be searched of organisation only i.e. First
@@ -12,7 +16,7 @@ A simple platform for finding out the top repositories of given organisation and
 
 Currently the website is not mobile responsive so please, try it on desktop devices.
 
-**How to run locally?** 
+**How to run locally?**
 
 choose the directory where you want to clone the project and setup a virtual environment for the same. For better understanding, lets say you are choosing Desktop as directory.
 
